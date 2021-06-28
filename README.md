@@ -3,7 +3,7 @@ Api para criação de listas de produtos favoritos para clientes
 
 ## Preparando o ambiente:
 
-pip install requirements.txt -r
+pip install -r requirements.txt
 
 ## Rodando a api:
 python app.py
